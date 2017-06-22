@@ -1,0 +1,225 @@
+#LangLabel:=Português
+//Erros e avisos  padrão do sistema//
+
+Error: =/= Erro:
+Warning: =/= Aviso:
+Success: =/= Sucesso:
+Couldn't find DataBase! =/= N&atilde;o foi poss&iacute;vel encontrar o Banco de Dados!
+Couldn't write session! =/= N&atilde;o foi poss&iacute;vel gravar a sess&atilde;o!
+Couldn't connect to the DataBase! =/= N&atilde;o foi poss&iacute;vel se conectar ao Banco de Dados!
+Can't write to log file! =/= N&atilde;o foi poss&iacute;vel gravar no arquivo de log!
+unknown =/= desconhecido
+Class Paths not set! =/= Classe paths não configurada!
+session =/= sessão
+successfully signed out =/= logoff efetuado com sucesso
+successfully signed in =/= login efetuado com sucesso
+error invalid username/password =/= erro usuário/senha inválido
+Class Login not set! =/= Classe login não configurada!
+Class PgSQL not set! =/= Classe PgSQL não configurada!
+
+//Detalhes do Usuario//
+Username =/= Usuário
+Password =/= Senha
+Sign In =/= Entrar
+Invalid Username or Password! =/= Usuário ou Senha inválidos!
+
+//Menus do sistema//
+home =/= início
+list =/= listar
+register =/= cadastrar
+edit =/= editar
+settings =/= configurações
+plans =/= planos
+tools =/= ferramentas
+help =/= ajuda
+Under Construction! =/= Em Construção!
+Full =/= Completo
+Administrator =/= Administrador
+Technician =/= Técnico
+free =/= livre
+Home =/= Início
+List =/= Listar
+Register =/= Cadastrar
+Customers =/= Clientes
+Technicians =/= Técnicos
+Administrators =/= Administradores
+Manage Plans =/= Gerenciar Planos
+Tools =/= Ferramentas
+Network =/= Rede
+System =/= Sistema
+Settings =/= Configurações
+Sign Out =/= Sair
+Profile =/= Perfil
+Help =/= Ajuda
+Unlock =/= Desbloquear
+Language =/= Idioma
+The asynchronous request has failed! =/= A requisição assíncrona falhou!
+Registrations =/= Cadastros
+This Month =/= Este Mês
+On Line =/= Conectados
+Off Line =/= Desconectados
+Mbits Sold =/= Mbits Vendidos
+Main Throughput =/= Tráfego Principal
+Users per Plan =/= Usuários por Plano
+Users Ranking =/= Ranking de Usuários
+1st =/= 1º
+2nd =/= 2º
+3rd =/= 3º
+4th =/= 4º
+5th =/= 5º
+6th =/= 6º
+7th =/= 7º
+8th =/= 8º
+Equipments =/= Equipamentos
+Search =/= Pesquisar
+Show Off Line =/= Mostrar Off Line
+filtered from _MAX_ =/= filtradas de _MAX_
+No data available in table! =/= Sem dados na tabela!
+No matching records found! =/= Não foram encontrados resultados!
+Show All =/= Mostrar Todos
+Unauthorized Query! =/= Requisição não autorizada!
+Invalid Query! =/= Requisição Inválida!
+Invalid =/= Inválido
+Name =/= Nome
+Full Name =/= Nome Completo
+Place =/= Local
+Register Date =/= Data de Cadastro
+IP Address =/= Endereço IP
+Plan =/= Plano
+Details =/= Detalhes
+City =/= Cidade
+connected =/= conectado
+disconnected =/= desconectado
+ID =/= CPF
+Brand =/= Marca
+Show _MENU_ entries =/= Mostrar _MENU_ linhas
+Show Details =/= Exibir Detalhes
+Access Device =/= Acessar Dispositivo
+History =/= Histórico
+Support =/= Suporte
+Edit =/= Editar
+Enable =/= Ativar
+Disable =/= Desativar
+Delete =/= Remover
+Type =/= Tipo
+Group =/= Grupo
+Address, N =/= Endereço, nº
+Service =/= Serviço
+Region =/= Bairro
+Phone =/= Telefone
+Port =/= Porta
+Birthday =/= Data de Nascimento
+You do not have permission to see this page! =/= Você não permissão para ver esta página!
+Please Wait ... =/= Aguarde ...
+Could not acquire remote IP! =/= Não pôde obter IP remoto!
+The Session user is not currently authenticated on the network! =/= O usuário desta sessão não está atualmente autenticado na rede!
+The Session user is not the same as the one authenticated on the network! =/= O usuário desta sessão não é o mesmo que o atualmente autenticado na rede!
+Unknown Equipment =/= Equipamento Desconhecido
+Provide authentication information =/= Informe dados de autenticação
+Send =/= Enviar
+Service not yet supported! =/= Serviço ainda não suportado!
+SSH2 Extension not found! =/= Extensão SSH2 não encontrada!
+Invalid Host Name! =/= Nome de host inválido
+Connection Failed! =/= Conexão Falhou!
+Fingerprint Failed! =/= Troca de chaves Falhou!
+Authentication Failed! =/= Autenticação Falhou!
+Command Execution Failed! =/= Execução do Comando Falhou!
+Could not open request! Try again later. =/= Não pôde completar a requisição! Tente novamente mais tarde.
+Could not find session user! =/= Não pôde encontrar o usuário desta sessão!
+No Plan =/= Sem Plano
+Connection =/= Conexão
+Main =/= Principal
+Confirmation =/= Confirmação
+There are empty inputs in the form. =/= Há campos em branco no formulário.
+These inputs are optional. =/= Estes campos são opcionais.
+Fill them =/= Preencher eles
+Leave them empty =/= Deixar eles em branco
+Next =/= Próximo
+Previous =/= Anterior
+Finish =/= Finalizar
+show / hide =/= mostrar / ocultar
+Confirm the above data! =/= Confirme os dados acima!
+Check the confirmation box! =/= Marque a caixa de confirmação!
+Minimum =/= Mínimo
+Session Timeout =/= Tempo de Sessão
+Main Chart =/= Gráfico Principal
+Data Points =/= Pontos de Dados
+Trial Timeout =/= Tempo de Avaliação
+Redirect URL =/= URL Direcionada
+Installation =/= Instalação
+Form Fields =/= Campos de Formulários
+Title =/= Título
+Mask =/= Máscara
+Validation =/= Validação
+Save =/= Salvar
+Add =/= Adicionar
+
+#Dates Names
+Sun =/= Dom
+Mon =/= Seg
+Tue =/= Ter
+Wed =/= Qua
+Thu =/= Qui
+Fri =/= Sex
+Sat =/= Sab
+Sunday =/= Domingo
+Monday =/= Segunda-Feira
+Tuesday =/= Terça-Feira
+Wednesday =/= Quarta-Feira
+Thursday =/= Quinta-Feira
+Friday =/= Sexta-Feira
+Saturday =/= Sábado
+January =/= Janeiro
+February =/= Fevereiro
+March =/= Março
+April =/= Abril
+May =/= Maio
+June =/= Junho
+July =/= Julho
+August =/= Agosto
+September =/= Setembro
+October =/= Outubro
+November =/= Novembro
+December =/= Dezembro
+
+#Help Desk
+Help Desk =/= Balcão de Ajuda
+Open Ticket =/= Abrir Ticket
+Open Tickets =/= Tickets Abertos
+Closed Tickets =/= Tickets Fechados
+Update Ticket =/= Atualizar Ticket
+Return =/= Voltar
+Could not open ticket! =/= Não pôde abrir ticket!
+Ticket opened with success! =/= Ticket aberto com sucesso!
+Could not add message to the ticket! =/= Não pôde adicionar a mensagem ao ticket!
+Ticket updated with success! =/= Ticket atualizado com sucesso!
+Could not update ticket! =/= Não pôde atualizar ticket!
+No Customer =/= Sem Cliente
+Category =/= Categoria
+Priority =/= Prioridade
+Subject =/= Assunto
+Deadline =/= Prazo Final
+Message =/= Mensagem
+Cancel =/= Cancelar
+Save =/= Salvar
+Close Ticket! =/= Fechar Ticket!
+History =/= Histórico
+Technical - Internal =/= Técnico - Interno
+Technical - Install =/= Técnico - Instalação
+Technical - System =/= Técnico - Sistema
+Technical - Infrastructure =/= Técnico - Infraestrutura
+Technical - Customer =/= Técnico - Cliente
+Financial =/= Financeiro
+None =/= Nenhuma
+Non-Important =/= Não Importante
+Standard =/= Padrão
+Important =/= Importante
+Urgent =/= Urgente
+Open =/= Aberto
+Closed =/= Fechado
+Load More =/= Carregar Mais
+No items so far! Use the Add button. =/= Sem itens até agora! Use o botão Adicionar
+Couldn't update message! =/= Não pôde atualizar a mensagem!
+Are you sure you want to delete this message? =/= Você tem certeza que deseja remover esta mensagem?
+This action is irreversible. =/= Esta ação é irreversível.
+Couldn't delete message! =/= Não pôde remover a mensagem!
